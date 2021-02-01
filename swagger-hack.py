@@ -179,7 +179,7 @@ def check_spec(spec_url,url,f):#前一个是接口文档，用于分析，后一
 
 if __name__ == '__main__':
     banner()
-    url = "https://pay2.kuairui.tech"#eg:https://pay2.kuairui.tech/swagger-ui.html 只取前面host部分
+    url = "https://xx.xx.xx"#eg:https://pay2.kuairui.tech/swagger-ui.html 只取前面host部分
     specs = get_specs(url)
     print("[+] 共抓取到 %d 个标准"%(len(specs)))
 
