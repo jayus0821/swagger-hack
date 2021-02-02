@@ -16,3 +16,6 @@
 ![](https://github.com/jayus0821/swagger-hack/blob/main/images/image-20210201200607110.png)
 所有测试结果都存储在csv中：
 ![](https://github.com/jayus0821/swagger-hack/blob/main/images/image-20210201201527999.png)
+
+欢迎大家关注稻草人安全团队，后续有更多技术文章、工具分享等
+![](https://github.com/jayus0821/swagger-hack/blob/main/images/640.jpg)
