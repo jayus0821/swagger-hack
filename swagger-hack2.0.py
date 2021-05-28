@@ -252,8 +252,8 @@ def go_docs(url,global_data):
                         global_data.put(hhh)
 
                     else:
-                        logger.error("[!] 遇到了没有添加的请求方法...",)
-                        exit()
+                        logger.error("[!] 遇到了没有添加的请求方法...{}".format(method))
+                        #exit()
             except Exception as e:
                 logger.error(e)
     except KeyboardInterrupt:
