@@ -22,5 +22,4 @@
 最终结果：
 ![](https://github.com/jayus0821/swagger-hack/blob/main/images/image-20210201201527999.png)
 
-欢迎大家关注稻草人安全团队，后续有更多技术文章、工具分享等
-![](https://github.com/jayus0821/swagger-hack/blob/main/images/640.jpg)
+
